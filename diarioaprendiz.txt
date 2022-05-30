@@ -1,0 +1,43 @@
+Esse é meu primeiro repositório. 
+Aos 53 anos resolvi retornar para a área de TI - quase 30 anos depois da minha graduação na área, em dezembro de 1993.
+Entrei na faculdade de Processamento de Dados quando a área de informatica estava começando, ninguém sabia exatamente o que era, nem onde iriamos chegar. Meus professores não eram formados em computação, e os livros eram todos em ingles. Não tinha internet, nem computadores em rede, quem dirá nuvem.... 
+Fiz meu mestrado em Informatica, na área de Teoria da Computação e Inteligencia Artificial, estudei um monte de matematica e métodos de decisão e não tinha idea onde aquilo tudo iria chegar.
+Passei 27 anos em gestão de academica, pessoas, processos e projetos. Lidei com a complexidade das relações humanas na prática da gestão e na sala de aula.
+Vivi muitas experiencias com ferramentas de tecnologia nesse hiato, como usuária sempre estive em vantagem porque "entendia" a lógica das ferramentas e dos processos(algoritmos)da gestão.
+Agora, 30 anos depois, retorno pra área de TI, correndo atras de um monte de termo e ferramentas voltadas pra profissionais de TI, desenvolvedores, e etc. Muito do que vi de abstrato no mestrado, hoje vejo materializado em práticas essenciais para gestão.Dados, BI, desenvolvimento, versionamentos, notebooks, testes, UX, e por aí vai. Aprendento horrores todo dia, correndo atras dos meus colegas Nerds modernos, ou simplesmente apaixonados por tudo isso. 
+Me vejo num parque de diersões, tudo é interessante, da vontade de saber tudo, fazer tudo, e quanto mais estudo, menos sei e mais me encanto, vontade de brincar em todos os brinquedos, será que consigo?!
+Que saudades eu estava dessa sensação de poder criar estruturas lógicas que atendem  e representam o mundo real. 
+Então, dá pra perceber que estou que nem "pinto no lixo" com tudo isso, ne?! E foi assim que cheguei aqui, meu primeiro repositório git, no github com apoio do Visual Studio Code...
+Bora codar, commitar, dropar.... respirar todos esses "ar"s , :) 
+Eu vou listar aqui todas as tecnologias e ferramentas que estou aprendendo e reaprendendo. Mas, claro que vou preparar um github turbinado pra me "amosxtrar", tem que valorizar porque são horas de estudo e muito prazer em cada novidade e nova habilidade aprendida!!
+Então, vamos lá!!!! 
+
+Listinha do que eu estou aprendendo..
+1. SQL
+2. Notebooks - Collab
+3. DBrowser
+4. BigQuery
+5. Tableau
+6. Phyton
+7. Pandas
+8. Git -GitHub
+9. Visual Studio Code
+10. Numpy
+11. PowerBI
+
+Listinha do que eu quero aprender ainda (essa só aumenta, quanto mais aprendo mais coisas eu vejo que preciso aprender, e nem sabia da existencia..)
+Jira
+Cloud AWS
+Kumbernet
+React
+WebScraping
+Django
+
+E por fim, a listinha das certificações que eu quero fazer... cade a grana, Meu Deus!!! 
+1- Cientista de Dados ( já ta pago e estou em curso)
+2- Scrum Master 
+3- OKR ( essa acho que tem de graça, certiticado simples)
+4- Product Owner
+5- Gestão de Mudanças
+
+Então é isso gente, eu vou atualizando essas listinhas aqui, vamos ver quantas versões o git vai criar pra essa minha jornada!!!
